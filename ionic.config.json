@@ -1,0 +1,7 @@
+{
+  "name": "Ecam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
